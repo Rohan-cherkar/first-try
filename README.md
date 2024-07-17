@@ -1,3 +1,3 @@
 # first-try
 This is my first git repository.<br>
-Author-Rohan Cherkar
+Author-Rohan Ravindra Cherkar
